@@ -4,37 +4,33 @@
 
 ### Présentation de l’entreprise
 
-- Le rôle de ce site web sera d’améliorer la visibilité de l’option web ainsi que d’attirer de futurs étudiants.
+Le rôle de ce site web sera d’améliorer la visibilité de l’option web ainsi que d’attirer de futurs étudiants.
 
 ### Objectifs du site
 
-- Site vitrine pour présenter l’option web du bachelier en techniques graphiques de la HEPL.
+Site vitrine pour présenter l’option web du bachelier en techniques graphiques de la HEPL.
 
 ### La cible adressée par le site
 
-- Ce site sera adressé autant à des entreprises (propositions de stage) autant qu’à des particuliers (futurs étudiants, parents d’étudiants, …).
+Ce site sera adressé autant à des entreprises (propositions de stage) autant qu’à des particuliers (futurs étudiants, parents d’étudiants, …).
 
 ### Périmètre du site
 
-- Le site doit être multilingue (français, anglais, allemand, néerlandais).
-- Pas d’adaptation autre que le contenu textuel ne devra être fait.
-- Ce site doit être accessible sur les appareils mobiles, les images doivent être responsive.
+Le site doit être multilingue (français, anglais, allemand, néerlandais). Pas d’adaptation autre que le contenu textuel ne devra être fait. Il doit être accessible sur les appareils mobiles et  les images doivent être responsive.
 
 ### Description de l’existant
 
-- Présentations de l’entreprise disponible sur le site de la HEPL.
-- La seule ressource graphique disponible est le logo de la province. (pas obligatoire)
+La présentations de l’entreprise disponible sur le site de la HEPL. La seule ressource graphique disponible est le logo de la province. (pas obligatoire)
 
 ## Description graphique et ergonomique
 
 ### Charte graphique
 
-- Le code couleur du site n’est pas encore déterminé. ( thème clair)
-- Les polices utilisées sont à déterminer.
+Le code couleur du site n’est pas encore déterminé mais un thème clair est demandé. Les polices utilisées sont à déterminer.
 
 ### Design
 
-- Animations discrètes.
+Si il y a des animations elles doivent être discrètes. 
 
 ## Description fonctionnelle et technique
 
@@ -79,36 +75,33 @@ Organisation des rubriques :
 
 ### Description fonctionnelle
 
-- Il doit y avoir des rôles différents pour pouvoir gérer le site. (exemple: administrateur, super administrateur, etudiant, …)
-- Il doit y avoir un moteur de recherche interne. (meilisearch)
+Il doit y avoir des rôles différents pour pouvoir gérer le site. (exemple: administrateur, super administrateur, etudiant, …) ainsi qu’un moteur de recherche interne. 
 
 ### Informations relatives aux contenus
 
-- videos, images, textes.
-- Tous les contenus doivent être modifiables.
-- Le code HTML doit respecter les standards CEO.
+Le contenu de ce site doit contenir des videos, images, textes. Tous les contenus doivent être modifiables. Le code HTML doit respecter les standards CEO.
 
 ### Contraintes techniques
 
-- Laravel et javascript doivent être utilisés.
-- Le site doit être compatible sur tous les navigateurs.
-- intégrations emailing, réseaux sociaux, webanalyse, …
+Laravel et Javascript doivent être utilisés. Le site doit être compatible sur tous les navigateurs. Des intégrations peuvent être ajouter pour l’emailing, le partage sur les réseaux sociaux, les analyses. 
 
 ## Prestations attendues et modalité de sélection des prestataires
 
 ### Prestations attendues
 
-- Développement, design, intégration.
+Développement, design, intégration. 
 
 ### Planning
 
-- Ce site doit être réalisé et terminé pour le jury de janvier 2023.
-- deadlines :
-    - cahier des charges : lundi 19 septembre
-    - wireframe textuel: lundi 26 septembre
-    - wireframe: lundi 3 octobre
-    - design: lundi 10 octobre
+Ce site doit être réalisé et terminé pour le jury de janvier 2023.
+
+deadlines :
+
+- cahier des charges : lundi 19 septembre
+- wireframe textuel: lundi 26 septembre
+- wireframe: lundi 3 octobre
+- design: lundi 10 octobre
 
 ### Méthodologie de suivi
 
-- Le projet sera suivi avec des présentations physiques.
+Le projet sera suivi avec des présentations physiques.
